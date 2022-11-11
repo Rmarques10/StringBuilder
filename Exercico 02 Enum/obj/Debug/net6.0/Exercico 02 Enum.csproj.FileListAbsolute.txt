@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\bin\Debug\net6.0\Exercico 02 Enum.exe
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\bin\Debug\net6.0\Exercico 02 Enum.deps.json
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\bin\Debug\net6.0\Exercico 02 Enum.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\bin\Debug\net6.0\Exercico 02 Enum.dll
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\bin\Debug\net6.0\Exercico 02 Enum.pdb
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.dll
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\refint\Exercico 02 Enum.dll
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.pdb
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\Exercico 02 Enum.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Exercico 02 Enum\Exercico 02 Enum\obj\Debug\net6.0\ref\Exercico 02 Enum.dll

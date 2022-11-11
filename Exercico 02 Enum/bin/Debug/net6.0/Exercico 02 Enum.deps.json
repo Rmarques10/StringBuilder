@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercico 02 Enum/1.0.0": {
+        "runtime": {
+          "Exercico 02 Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercico 02 Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
